@@ -3,7 +3,7 @@
 <div align="center">
 
 Full Stack Developer • Southern Pines, NC  
-1+ year professional experience  
+2+ years professional experience  
 4+ years hobbyist experience
 
 </div>
