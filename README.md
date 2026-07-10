@@ -3,8 +3,7 @@
 <div align="center">
 
 Full Stack Developer • North Carolina  
-2+ years professional experience  
-4+ years hobbyist experience
+6+ Years of developer experience
 
 </div>
 
