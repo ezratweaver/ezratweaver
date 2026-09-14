@@ -1,4 +1,4 @@
-# Hey there, I'm Ezra Weaver 👋
+# Hey there, I'm Ezra 👋
 
 <div align="center">
 
