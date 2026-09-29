@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Full Stack Developer • North Carolina  
+Software Developer • North Carolina  
 6+ Years of developer experience
 
 </div>
