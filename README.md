@@ -5,6 +5,8 @@
 Software Developer • North Carolina  
 6+ Years of developer experience
 
+Founder of [Basewind](https://basewind.io) • Website Design & SEO
+
 </div>
 
 ## Top Skills
